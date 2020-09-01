@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {v4 as uuid} from 'uuid';
-import '../App.css';
+
 
 export class Mainpage extends Component {
     constructor(props){
